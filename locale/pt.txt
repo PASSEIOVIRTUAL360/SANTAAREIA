@@ -1,0 +1,69 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_76A6AFDA_7DCF_4550_41D4_866427189E76.label = ACESSO AS QUADRAS, DECK E SALÃO DE FESTA
+panorama_76A6268E_7DCF_47B1_41C2_E08851C1C677.label = ACESSO BECO DO SANTA
+panorama_76A69CD4_7DCF_4B50_4184_9BD40CC7B4A2.label = ACESSO RESTAURANTE
+panorama_76A5B5EF_7DCC_C570_41A1_80F63A292873.label = BECO DO SANTA 
+panorama_76A67980_7DCF_4DB0_41DD_6DC1D6ED55B6.label = BECO DO SANTA (1)
+panorama_76A63FB0_7DCF_45D0_41A0_F8CDA0B764CB.label = BECO DO SANTA (2)
+panorama_76A5EC14_7DCC_CAD0_41C3_391B94CB06B0.label = BRINQUEDOS
+panorama_76A5A244_7DCC_DEB0_41C1_6C0B890B2F2D.label = CHURRASQUEIRA DO BECO
+panorama_76A5E88E_7DCC_CBB0_41AA_519BD36DD115.label = CORREDOR DE ENTRADA 1
+panorama_76A5C7BD_7DCC_C5D0_41C4_C39974944F29.label = DECK
+panorama_76A5EEB4_7DCC_C7D0_41C4_1E0D2C99008D.label = DECK 1
+panorama_76BA34F3_7DCC_FB50_41DE_BCA4542BED83.label = DECK 2
+panorama_76BA1162_7DCC_DD70_41A3_68694C6C0729.label = DECK ENTRADA
+panorama_76BA1DFD_7DCC_C550_41CA_20C7B4B44994.label = ENTRADA BECO DO SANTA 
+panorama_76BAD34F_7DCD_5D4F_41DA_6F2A23C698D3.label = LIGAÇÃO DECK 1
+panorama_76BAFA1B_7DCD_4ED0_41DC_C505A3ECAFA7.label = LOJA 
+panorama_76BA510C_7DCD_BAB0_41D3_FE98208BFCFE.label = PORTÃO DE ENTRADA
+panorama_76BA5E5A_7DCD_C750_41CF_CB1E64699A51.label = QUADRAS  5 E 6
+panorama_76BA2529_7DCD_DAF3_41D7_BF193536D0A8.label = QUADRAS 1 E 2 
+panorama_76BA4B70_7DCD_CD50_419C_BA1041D5191E.label = QUADRAS 3 E 4 
+panorama_76BA01DD_7DCD_FD50_41DD_421EB2539EE9.label = RECEPÇÃO
+panorama_76BBA61B_7DCD_C6D0_41A8_987CB30CAD86.label = RESTAURANTE
+panorama_76BBA8B3_7DCD_CBD0_41C9_2EB2EE321D7E.label = RESTAURANTE 1
+panorama_76BA6FBA_7DCD_C5D1_41D6_AD75DB708B4D.label = RESTAURANTE(1)
+panorama_76BBBC71_7DCD_CB50_41D2_26A997CA343F.label = SALA DE RECEPÇÃO
+panorama_76A6A9CB_7DCF_4DB0_41BB_90FC15C621E0.label = academia
+panorama_76BAC33E_7DCF_5ED1_41B9_7B23232F2C53.label = academia(1)
+panorama_76BA1A8E_7DCD_4FB0_41DE_3091DD7FE3A9.label = estacionamento
+panorama_76BA4422_7DCC_BAF0_41C4_72B39CE3A5DA.label = estacionamento 1
+panorama_76BA70CE_7DCD_5BB0_41DB_89947940CCC0.label = fachada 1
+panorama_76BA2829_7DCD_4AF0_41D5_7C1F2DE125C3.label = fachada 2
+panorama_76BA1EF6_7DCD_4750_41CE_5AAF9E98A056.label = fachada 2entrada
+panorama_76BA0C7F_7DCD_4B50_41D7_A107EBD3B1E4.label = ligação academia
+panorama_76BA37B6_7DCD_C5D0_4174_694E73731FDC.label = quadra 7
+panorama_70258ADF_7DCF_4F50_41DB_543A957EE127.label = ~LIGAÇÃO DECK
+panorama_76A642FC_7DCF_5F51_41AB_8FDE90BEE400.label = ÁREA DO ATLETA
+
+## Skin
+
+### Button
+Button_B9A0B9F1_AD0E_C638_41BD_C7B138663F43.label = ACADEMIA
+Button_B9AFC92E_AD0E_C629_41D4_378B06D4EBB1.label = BECO DO SANTA
+Button_BC4B4211_AD16_C5FB_41CB_61C5DCC8A200.label = BRINQUEDOS
+Button_BC4BA211_AD16_C5FB_41C3_16073F60A394.label = DECK
+Button_B992B6EC_AD0E_CA29_41DD_A80130FA87F7.label = LOJA
+Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43.pressedLabel = Location
+Button_BC4BD211_AD16_C5FB_41CB_2903E1B82390.label = QUADRAS
+Button_B9BB1836_AD0E_C639_41E0_D21BFDCFF895.label = RECEPÇÃO
+Button_BC4A0211_AD16_C5FB_41E5_0DB0743A4535.label = RECEPÇÃO
+Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43.label = RESTAURANTE
+Button_BC4B8211_AD16_C5FB_41C6_1AC3E9D6591B.label = ÁREA DO ATLETA
+
+### Image
+Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E.url = skin/Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E_pt.jpeg
+
+### Multiline Text
+HTMLText_BC4A0212_AD16_C5F9_41B7_39117C20FD6E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SANTA AREIA
