@@ -44,22 +44,35 @@ panorama_76A642FC_7DCF_5F51_41AB_8FDE90BEE400.label = ÁREA DO ATLETA
 
 ### Button
 Button_B9A0B9F1_AD0E_C638_41BD_C7B138663F43.label = ACADEMIA
+Button_B9A0B9F1_AD0E_C638_41BD_C7B138663F43_mobile.label = ACADEMIA
 Button_B9AFC92E_AD0E_C629_41D4_378B06D4EBB1.label = BECO DO SANTA
+Button_B9AFC92E_AD0E_C629_41D4_378B06D4EBB1_mobile.label = BECO DO SANTA
 Button_BC4B4211_AD16_C5FB_41CB_61C5DCC8A200.label = BRINQUEDOS
+Button_BC4B4211_AD16_C5FB_41CB_61C5DCC8A200_mobile.label = BRINQUEDOS
+Button_BC4BA211_AD16_C5FB_41C3_16073F60A394_mobile.label = DECK
 Button_BC4BA211_AD16_C5FB_41C3_16073F60A394.label = DECK
 Button_B992B6EC_AD0E_CA29_41DD_A80130FA87F7.label = LOJA
+Button_B992B6EC_AD0E_CA29_41DD_A80130FA87F7_mobile.label = LOJA
 Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43.pressedLabel = Location
+Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43_mobile.pressedLabel = Location
+Button_BC4BD211_AD16_C5FB_41CB_2903E1B82390_mobile.label = QUADRAS
 Button_BC4BD211_AD16_C5FB_41CB_2903E1B82390.label = QUADRAS
 Button_B9BB1836_AD0E_C639_41E0_D21BFDCFF895.label = RECEPÇÃO
 Button_BC4A0211_AD16_C5FB_41E5_0DB0743A4535.label = RECEPÇÃO
+Button_B9BB1836_AD0E_C639_41E0_D21BFDCFF895_mobile.label = RECEPÇÃO
+Button_BC4A0211_AD16_C5FB_41E5_0DB0743A4535_mobile.label = RECEPÇÃO
 Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43.label = RESTAURANTE
+Button_BC4BF211_AD16_C5FB_41C0_6A538E978B43_mobile.label = RESTAURANTE
+Button_BC4B8211_AD16_C5FB_41C6_1AC3E9D6591B_mobile.label = ÁREA DO ATLETA
 Button_BC4B8211_AD16_C5FB_41C6_1AC3E9D6591B.label = ÁREA DO ATLETA
 
 ### Image
+Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E_mobile.url = skin/Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E_mobile_pt.jpeg
 Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E.url = skin/Image_BC4A7211_AD16_C5FB_41E4_69DFE4B3D72E_pt.jpeg
 
 ### Multiline Text
 HTMLText_BC4A0212_AD16_C5F9_41B7_39117C20FD6E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_BC4A0212_AD16_C5F9_41B7_39117C20FD6E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
